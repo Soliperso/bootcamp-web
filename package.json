@@ -1,0 +1,27 @@
+{
+  "name": "bootcamp-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soliperso/bootcamp-web.git"
+  },
+  "author": "Ahmed Chebli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soliperso/bootcamp-web/issues"
+  },
+  "homepage": "https://github.com/Soliperso/bootcamp-web#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7",
+    "morgan": "^1.9.1",
+    "validator": "^11.1.0"
+  }
+}
